@@ -1,0 +1,3555 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <title>Avatar: The Way of Water</title>
+    <release_year>2022</release_year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <director>James Cameron</director>
+    <country>USA</country>
+    <duration>192</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Spider-Man: No Way Home</title>
+    <release_year>2021</release_year>
+    <genre>Action, Adventure, Superhero</genre>
+    <director>Jon Watts</director>
+    <country>USA</country>
+    <duration>148</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Dune</title>
+    <release_year>2021</release_year>
+    <genre>Sci-Fi, Adventure</genre>
+    <director>Denis Villeneuve</director>
+    <country>USA</country>
+    <duration>155</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Encanto</title>
+    <release_year>2021</release_year>
+    <genre>Animation, Musical</genre>
+    <director>Jared Bush, Byron Howard</director>
+    <country>USA</country>
+    <duration>99</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Minari</title>
+    <release_year>2020</release_year>
+    <genre>Drama</genre>
+    <director>Lee Isaac Chung</director>
+    <country>USA</country>
+    <duration>115</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Promising Young Woman</title>
+    <release_year>2020</release_year>
+    <genre>Crime, Drama, Thriller</genre>
+    <director>Emerald Fennell</director>
+    <country>UK, USA</country>
+    <duration>113</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Father</title>
+    <release_year>2020</release_year>
+    <genre>Drama</genre>
+    <director>Florian Zeller</director>
+    <country>UK, France</country>
+    <duration>97</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Another Round</title>
+    <release_year>2020</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Thomas Vinterberg</director>
+    <country>Denmark</country>
+    <duration>117</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Licorice Pizza</title>
+    <release_year>2021</release_year>
+    <genre>Comedy, Drama, Romance</genre>
+    <director>Paul Thomas Anderson</director>
+    <country>USA</country>
+    <duration>133</duration>
+    <imdb_rating>7.1</imdb_rating>
+    <actors>Alana Haim, Cooper Hoffman, Sean Penn</actors>
+    <imdb_votes>149,574</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>King Richard</title>
+    <release_year>2021</release_year>
+    <genre>Biography, Drama, Sport</genre>
+    <director>Reinaldo Marcus Green</director>
+    <country>USA</country>
+    <duration>144</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Nightmare Alley</title>
+    <release_year>2021</release_year>
+    <genre>Crime, Drama, Thriller</genre>
+    <director>Guillermo del Toro</director>
+    <country>USA</country>
+    <duration>150</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Nope</title>
+    <release_year>2022</release_year>
+    <genre>Horor, Mistery, Sci-Fi</genre>
+    <director>Jordan Peele</director>
+    <country>USA</country>
+    <duration>130</duration>
+    <imdb_rating>6.8</imdb_rating>
+    <actors>Daniel Kaluuya, Keke Palmer, Brandon Perea</actors>
+    <imdb_votes>303,287</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>Aftersun</title>
+    <release_year>2022</release_year>
+    <genre>Drama</genre>
+    <director>Charlotte Wells</director>
+    <country>UK</country>
+    <duration>102</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Triangle of USAness</title>
+    <release_year>2022</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Ruben Östlund</director>
+    <country>Sweden</country>
+    <duration>147</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Decision to Leave</title>
+    <release_year>2022</release_year>
+    <genre>Crime, Drama, Mistery</genre>
+    <director>Park Chan-wook</director>
+    <country>South Korea</country>
+    <duration>138</duration>
+    <imdb_rating>7.3</imdb_rating>
+    <actors>Tang Wei, Park Hae-il, Lee Jung-hyun</actors>
+    <imdb_votes>63,309</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>The Banshees of Inisherin</title>
+    <release_year>2022</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Martin McDonagh</director>
+    <country>Ireland</country>
+    <duration>114</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Black Panther</title>
+    <release_year>2018</release_year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <director>Ryan Coogler</director>
+    <country>USA</country>
+    <duration>134</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>47 Ronin</title>
+    <release_year>2013</release_year>
+    <genre>Action, Drama, Fantasy</genre>
+    <director>Carl Rinsch</director>
+    <country>USA</country>
+    <duration>128</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>King Arthur: Legend of the Sword</title>
+    <release_year>2017</release_year>
+    <genre>Action, Adventure, Drama</genre>
+    <director>Guy Ritchie</director>
+    <country>USA</country>
+    <duration>126</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Promise</title>
+    <release_year>2016</release_year>
+    <genre>Drama, History</genre>
+    <director>Terry George</director>
+    <country>USA</country>
+    <duration>133</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Inception</title>
+    <release_year>2010</release_year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <director>Christopher Nolan</director>
+    <country>USA</country>
+    <duration>148</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Grand Budapest Hotel</title>
+    <release_year>2014</release_year>
+    <genre>Adventure, Comedy, Crime</genre>
+    <director>Wes Anderson</director>
+    <country>USA</country>
+    <duration>99</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Mad Max: Fury Road</title>
+    <release_year>2015</release_year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <director>George Miller</director>
+    <country>Australia</country>
+    <duration>120</duration>
+    <imdb_rating>8.1</imdb_rating>
+    <actors>Tom Hardy, Charlize Theron, Nicholas Hoult</actors>
+    <imdb_votes>1,179,214</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>La La Land</title>
+    <release_year>2016</release_year>
+    <genre>Comedy, Drama, Music</genre>
+    <director>Damien Chazelle</director>
+    <country>USA</country>
+    <duration>128</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Get Out</title>
+    <release_year>2017</release_year>
+    <genre>Horror, Mystery, Thriller</genre>
+    <director>Jordan Peele</director>
+    <country>USA</country>
+    <duration>104</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Parasite</title>
+    <release_year>2019</release_year>
+    <genre>Comedy, Drama, Thriller</genre>
+    <director>Bong Joon Ho</director>
+    <country>South Korea</country>
+    <duration>132</duration>
+    <imdb_rating>8.5</imdb_rating>
+    <actors>Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong</actors>
+    <imdb_votes>1,091,009</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>The Shape of Water</title>
+    <release_year>2017</release_year>
+    <genre>Drama, Fantasy, Romance</genre>
+    <director>Guillermo del Toro</director>
+    <country>USA</country>
+    <duration>123</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The King's Speech</title>
+    <release_year>2010</release_year>
+    <genre>Biography, Drama, History</genre>
+    <director>Tom Hooper</director>
+    <country>UK</country>
+    <duration>118</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Drive</title>
+    <release_year>2011</release_year>
+    <genre>Action, Crime, Drama</genre>
+    <director>Nicolas Winding Refn</director>
+    <country>USA</country>
+    <duration>100</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Intouchables</title>
+    <release_year>2011</release_year>
+    <genre>Biography, Comedy, Drama</genre>
+    <director>Olivier Nakache, Éric Toledano</director>
+    <country>France</country>
+    <duration>112</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Life of Pi</title>
+    <release_year>2012</release_year>
+    <genre>Adventure, Drama, Fantasy</genre>
+    <director>Ang Lee</director>
+    <country>USA</country>
+    <duration>127</duration>
+    <imdb_rating>7.9</imdb_rating>
+    <actors>Suraj Sharma, Irrfan Khan, Adil Hussain</actors>
+    <imdb_votes>688,034</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>The Artist</title>
+    <release_year>2011</release_year>
+    <genre>Comedy, Drama, Romance</genre>
+    <director>Michel Hazanavicius</director>
+    <country>France</country>
+    <duration>100</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Birdman</title>
+    <release_year>2014</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Alejandro González Iñárritu</director>
+    <country>USA</country>
+    <duration>119</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Martian</title>
+    <release_year>2015</release_year>
+    <genre>Adventure, Drama, Sci-Fi</genre>
+    <director>Ridley Scott</director>
+    <country>USA</country>
+    <duration>144</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Inside Out</title>
+    <release_year>2015</release_year>
+    <genre>Animation, Adventure, Comedy</genre>
+    <director>Pete Docter, Ronnie del Carmen</director>
+    <country>USA</country>
+    <duration>95</duration>
+    <imdb_rating>8.1</imdb_rating>
+    <actors>Amy Poehler, Bill Hader, Lewis Black</actors>
+    <imdb_votes>877,782</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>The Imitation Game</title>
+    <release_year>2014</release_year>
+    <genre>Biography, Drama, Thriller</genre>
+    <director>Morten Tyldum</director>
+    <country>UK</country>
+    <duration>113</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Slumdog Millionaire</title>
+    <release_year>2008</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Danny Boyle</director>
+    <country>UK</country>
+    <duration>120</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Help</title>
+    <release_year>2011</release_year>
+    <genre>Drama</genre>
+    <director>Tate Taylor</director>
+    <country>USA</country>
+    <duration>146</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Silver Linings Playbook</title>
+    <release_year>2012</release_year>
+    <genre>Comedy, Drama, Romance</genre>
+    <director>David O. Russell</director>
+    <country>USA</country>
+    <duration>122</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Dallas Buyers Club</title>
+    <release_year>2013</release_year>
+    <genre>Biography, Drama</genre>
+    <director>Jean-Marc Vallée</director>
+    <country>USA</country>
+    <duration>117</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Theory of Everything</title>
+    <release_year>2014</release_year>
+    <genre>Biography, Drama, Romance</genre>
+    <director>James Marsh</director>
+    <country>UK</country>
+    <duration>123</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Bridge of Spies</title>
+    <release_year>2015</release_year>
+    <genre>Drama, History, Thriller</genre>
+    <director>Steven Spielberg</director>
+    <country>USA</country>
+    <duration>142</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Hereditary</title>
+    <release_year>2018</release_year>
+    <genre>Drama, Horror, Mystery</genre>
+    <director>Ari Aster</director>
+    <country>USA</country>
+    <duration>127</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Blade Runner 2049</title>
+    <release_year>2017</release_year>
+    <genre>Action, Drama, Sci-Fi</genre>
+    <director>Denis Villeneuve</director>
+    <country>USA</country>
+    <duration>164</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Favourite</title>
+    <release_year>2018</release_year>
+    <genre>Biography, Comedy, Drama</genre>
+    <director>Yorgos Lanthimos</director>
+    <country>UK</country>
+    <duration>119</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Three Billboards Outside Ebbing, Missouri</title>
+    <release_year>2017</release_year>
+    <genre>Comedy, Crime, Drama</genre>
+    <director>Martin McDonagh</director>
+    <country>USA</country>
+    <duration>115</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Adventures of Rocky &amp; Bullwinkle</title>
+    <release_year>2000</release_year>
+    <genre>Animation, Adventure, Comedy</genre>
+    <director>Des McAnuff</director>
+    <country>USA</country>
+    <duration>92</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Cutthroat Island</title>
+    <release_year>1995</release_year>
+    <genre>Action, Adventure, Comedy</genre>
+    <director>Renny Harlin</director>
+    <country>USA</country>
+    <duration>124</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Memento</title>
+    <release_year>2000</release_year>
+    <genre>Mystery, Thriller</genre>
+    <director>Christopher Nolan</director>
+    <country>USA</country>
+    <duration>113</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Amélie</title>
+    <release_year>2001</release_year>
+    <genre>Comedy, Romance</genre>
+    <director>Jean-Pierre Jeunet</director>
+    <country>France</country>
+    <duration>122</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>City of God</title>
+    <release_year>2002</release_year>
+    <genre>Crime, Drama</genre>
+    <director>Fernando Meirelles, Kátia Lund</director>
+    <country>Brazil</country>
+    <duration>130</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Lost in Translation</title>
+    <release_year>2003</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Sofia Coppola</director>
+    <country>USA</country>
+    <duration>102</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Eternal Sunshine of the Spotless Mind</title>
+    <release_year>2004</release_year>
+    <genre>Drama, Romance, Sci-Fi</genre>
+    <director>Michel Gondry</director>
+    <country>USA</country>
+    <duration>108</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Pan's Labyrinth</title>
+    <release_year>2006</release_year>
+    <genre>Drama, Fantasy, War</genre>
+    <director>Guillermo del Toro</director>
+    <country>Mexico</country>
+    <duration>118</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>No Country for Old Men</title>
+    <release_year>2007</release_year>
+    <genre>Crime, Drama, Thriller</genre>
+    <director>Ethan Coen, Joel Coen</director>
+    <country>USA</country>
+    <duration>122</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>District 9</title>
+    <release_year>2009</release_year>
+    <genre>Action, Sci-Fi, Thriller</genre>
+    <director>Neill Blomkamp</director>
+    <country>South Africa</country>
+    <duration>112</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Gladiator</title>
+    <release_year>2000</release_year>
+    <genre>Action, Adventure, Drama</genre>
+    <director>Ridley Scott</director>
+    <country>USA</country>
+    <duration>155</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Requiem for a Dream</title>
+    <release_year>2000</release_year>
+    <genre>Drama</genre>
+    <director>Darren Aronofsky</director>
+    <country>USA</country>
+    <duration>102</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Donnie Darko</title>
+    <release_year>2001</release_year>
+    <genre>Drama, Mystery, Sci-Fi</genre>
+    <director>Richard Kelly</director>
+    <country>USA</country>
+    <duration>113</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Pianist</title>
+    <release_year>2002</release_year>
+    <genre>Biography, Drama, Music</genre>
+    <director>Roman Polanski</director>
+    <country>France</country>
+    <duration>150</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Oldboy</title>
+    <release_year>2003</release_year>
+    <genre>Action, Drama, Mystery</genre>
+    <director>Park Chan-wook</director>
+    <country>South Korea</country>
+    <duration>120</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Shaun of the Dead</title>
+    <release_year>2004</release_year>
+    <genre>Comedy, Horror</genre>
+    <director>Edgar Wright</director>
+    <country>UK</country>
+    <duration>99</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Sin City</title>
+    <release_year>2005</release_year>
+    <genre>Crime, Thriller</genre>
+    <director>Frank Miller, Robert Rodriguez, Quentin Tarantino</director>
+    <country>USA</country>
+    <duration>124</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Children of Men</title>
+    <release_year>2006</release_year>
+    <genre>Action, Drama, Sci-Fi</genre>
+    <director>Alfonso Cuarón</director>
+    <country>UK</country>
+    <duration>109</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Into the Wild</title>
+    <release_year>2007</release_year>
+    <genre>Adventure, Biography, Drama</genre>
+    <director>Sean Penn</director>
+    <country>USA</country>
+    <duration>148</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Hurt Locker</title>
+    <release_year>2008</release_year>
+    <genre>Drama, Thriller, War</genre>
+    <director>Kathryn Bigelow</director>
+    <country>USA</country>
+    <duration>131</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Departed</title>
+    <release_year>2006</release_year>
+    <genre>Crime, Drama, Thriller</genre>
+    <director>Martin Scorsese</director>
+    <country>USA</country>
+    <duration>151</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Prestige</title>
+    <release_year>2006</release_year>
+    <genre>Drama, Mystery, Sci-Fi</genre>
+    <director>Christopher Nolan</director>
+    <country>USA</country>
+    <duration>130</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Lives of Others</title>
+    <release_year>2006</release_year>
+    <genre>Drama, Thriller</genre>
+    <director>Florian Henckel von Donnersmarck</director>
+    <country>Germany</country>
+    <duration>137</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Little Miss Sunshine</title>
+    <release_year>2006</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Jonathan Dayton, Valerie Faris</director>
+    <country>USA</country>
+    <duration>101</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Up</title>
+    <release_year>2009</release_year>
+    <genre>Animation, Adventure, Comedy</genre>
+    <director>Pete Docter, Bob Peterson</director>
+    <country>USA</country>
+    <duration>96</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Orphanage</title>
+    <release_year>2007</release_year>
+    <genre>Drama, Horor, Misterija</genre>
+    <director>J.A. Bayona</director>
+    <country>Spain</country>
+    <duration>105</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Descent</title>
+    <release_year>2005</release_year>
+    <genre>Adventure, Horor, Thriller</genre>
+    <director>Neil Marshall</director>
+    <country>UK</country>
+    <duration>99</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>In Bruges</title>
+    <release_year>2008</release_year>
+    <genre>Komedija, Krimi, Drama</genre>
+    <director>Martin McDonagh</director>
+    <country>UK</country>
+    <duration>107</duration>
+    <imdb_rating>7.9</imdb_rating>
+    <actors>Colin Farrell, Brendan Gleeson, Ciarán Hinds</actors>
+    <imdb_votes>481,508</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>The Fall</title>
+    <release_year>2006</release_year>
+    <genre>Adventure, Drama, Fantasy</genre>
+    <director>Tarsem Singh</director>
+    <country>USA</country>
+    <duration>117</duration>
+    <imdb_rating>7.8</imdb_rating>
+    <actors>Lee Pace, Catinca Untaru, Justine Waddell</actors>
+    <imdb_votes>124,174</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>Titanic</title>
+    <release_year>1997</release_year>
+    <genre>Drama, Romance</genre>
+    <director>James Cameron</director>
+    <country>USA</country>
+    <duration>195</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Jurassic Park</title>
+    <release_year>1993</release_year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <director>Steven Spielberg</director>
+    <country>USA</country>
+    <duration>127</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Star Wars: Episode I - The Phantom Menace</title>
+    <release_year>1999</release_year>
+    <genre>Action, Adventure, Fantasy</genre>
+    <director>George Lucas</director>
+    <country>USA</country>
+    <duration>136</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Independence Day</title>
+    <release_year>1996</release_year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <director>Roland Emmerich</director>
+    <country>USA</country>
+    <duration>145</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Sixth Sense</title>
+    <release_year>1999</release_year>
+    <genre>Drama, Mystery, Thriller</genre>
+    <director>M. Night Shyamalan</director>
+    <country>USA</country>
+    <duration>107</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Armageddon</title>
+    <release_year>1998</release_year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <director>Michael Bay</director>
+    <country>USA</country>
+    <duration>151</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Men in Black</title>
+    <release_year>1997</release_year>
+    <genre>Action, Adventure, Comedy</genre>
+    <director>Barry Sonnenfeld</director>
+    <country>USA</country>
+    <duration>98</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Forrest Gump</title>
+    <release_year>1994</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Robert Zemeckis</director>
+    <country>USA</country>
+    <duration>142</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The 13th Warrior</title>
+    <release_year>1999</release_year>
+    <genre>Action, Adventure, History</genre>
+    <director>John McTiernan</director>
+    <country>USA</country>
+    <duration>102</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Hudson Hawk</title>
+    <release_year>1991</release_year>
+    <genre>Action, Adventure, Comedy</genre>
+    <director>Michael Lehmann</director>
+    <country>USA</country>
+    <duration>100</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Waterworld</title>
+    <release_year>1995</release_year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <director>Kevin Reynolds</director>
+    <country>USA</country>
+    <duration>135</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Postman</title>
+    <release_year>1997</release_year>
+    <genre>Action, Adventure, Drama</genre>
+    <director>Kevin Costner</director>
+    <country>USA</country>
+    <duration>177</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Showgirls</title>
+    <release_year>1995</release_year>
+    <genre>Drama</genre>
+    <director>Paul Verhoeven</director>
+    <country>USA</country>
+    <duration>128</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Scarlet Letter</title>
+    <release_year>1995</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Roland Joffé</director>
+    <country>USA</country>
+    <duration>135</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Town &amp; Country</title>
+    <release_year>2001</release_year>
+    <genre>Comedy, Romance</genre>
+    <director>Peter Chelsom</director>
+    <country>USA</country>
+    <duration>104</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Matrix</title>
+    <release_year>1999</release_year>
+    <genre>Action, Sci-Fi</genre>
+    <director>Lana Wachowski, Lilly Wachowski</director>
+    <country>USA</country>
+    <duration>136</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Schindler's List</title>
+    <release_year>1993</release_year>
+    <genre>Biography, Drama, History</genre>
+    <director>Steven Spielberg</director>
+    <country>USA</country>
+    <duration>195</duration>
+    <imdb_rating>9.0</imdb_rating>
+    <actors>Liam Neeson, Ralph Fiennes, Ben Kingsley</actors>
+    <imdb_votes>1,542,536</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>Goodfellas</title>
+    <release_year>1990</release_year>
+    <genre>Biography, Crime, Drama</genre>
+    <director>Martin Scorsese</director>
+    <country>USA</country>
+    <duration>146</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Fight Club</title>
+    <release_year>1999</release_year>
+    <genre>Drama</genre>
+    <director>David Fincher</director>
+    <country>USA</country>
+    <duration>139</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Silence of the Lambs</title>
+    <release_year>1991</release_year>
+    <genre>Crime, Drama, Thriller</genre>
+    <director>Jonathan Demme</director>
+    <country>USA</country>
+    <duration>118</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Pulp Fiction</title>
+    <release_year>1994</release_year>
+    <genre>Crime, Drama</genre>
+    <director>Quentin Tarantino</director>
+    <country>USA</country>
+    <duration>154</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Saving Private Ryan</title>
+    <release_year>1998</release_year>
+    <genre>Drama, War</genre>
+    <director>Steven Spielberg</director>
+    <country>USA</country>
+    <duration>169</duration>
+    <imdb_rating>8.6</imdb_rating>
+    <actors>Tom Hanks, Matt Damon, Tom Sizemore</actors>
+    <imdb_votes>1,589,732</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>Braveheart</title>
+    <release_year>1995</release_year>
+    <genre>Biography, Drama, History</genre>
+    <director>Mel Gibson</director>
+    <country>USA</country>
+    <duration>178</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Se7en</title>
+    <release_year>1995</release_year>
+    <genre>Crime, Drama, Mystery</genre>
+    <director>David Fincher</director>
+    <country>USA</country>
+    <duration>127</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Terminator 2: Judgment Day</title>
+    <release_year>1991</release_year>
+    <genre>Action, Sci-Fi</genre>
+    <director>James Cameron</director>
+    <country>USA</country>
+    <duration>137</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Lock, Stock and Two Smoking Barrels</title>
+    <release_year>1998</release_year>
+    <genre>Action, Comedy, Crime</genre>
+    <director>Guy Ritchie</director>
+    <country>UK</country>
+    <duration>107</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Snatch</title>
+    <release_year>2000</release_year>
+    <genre>Comedy, Crime</genre>
+    <director>Guy Ritchie</director>
+    <country>UK</country>
+    <duration>104</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Big Lebowski</title>
+    <release_year>1998</release_year>
+    <genre>Comedy, Crime</genre>
+    <director>Joel Coen, Ethan Coen</director>
+    <country>USA</country>
+    <duration>117</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Usual Suspects</title>
+    <release_year>1995</release_year>
+    <genre>Crime, Mystery, Thriller</genre>
+    <director>Bryan Singer</director>
+    <country>USA</country>
+    <duration>106</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>L.A. Confidential</title>
+    <release_year>1997</release_year>
+    <genre>Crime, Drama, Mystery</genre>
+    <director>Curtis Hanson</director>
+    <country>USA</country>
+    <duration>138</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Shawshank Redemption</title>
+    <release_year>1994</release_year>
+    <genre>Drama</genre>
+    <director>Frank Darabont</director>
+    <country>USA</country>
+    <duration>142</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Citizen Kane</title>
+    <release_year>1941</release_year>
+    <genre>Drama, Mystery</genre>
+    <director>Orson Welles</director>
+    <country>USA</country>
+    <duration>119</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Casablanca</title>
+    <release_year>1942</release_year>
+    <genre>Drama, Romance, War</genre>
+    <director>Michael Curtiz</director>
+    <country>USA</country>
+    <duration>102</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>12 Angry Men</title>
+    <release_year>1957</release_year>
+    <genre>Drama</genre>
+    <director>Sidney Lumet</director>
+    <country>USA</country>
+    <duration>96</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Psycho</title>
+    <release_year>1960</release_year>
+    <genre>Horror, Mystery, Thriller</genre>
+    <director>Alfred Hitchcock</director>
+    <country>USA</country>
+    <duration>109</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Godfather</title>
+    <release_year>1972</release_year>
+    <genre>Crime, Drama</genre>
+    <director>Francis Ford Coppola</director>
+    <country>USA</country>
+    <duration>175</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Star Wars</title>
+    <release_year>1977</release_year>
+    <genre>Action, Adventure, Fantasy</genre>
+    <director>George Lucas</director>
+    <country>USA</country>
+    <duration>121</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>E.T. the Extra-Terrestrial</title>
+    <release_year>1982</release_year>
+    <genre>Family, Sci-Fi</genre>
+    <director>Steven Spielberg</director>
+    <country>USA</country>
+    <duration>115</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Lord of the Rings: The Fellowship of the Ring</title>
+    <release_year>2001</release_year>
+    <genre>Adventure, Drama, Fantasy</genre>
+    <director>Peter Jackson</director>
+    <country>New Zealand</country>
+    <duration>178</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Drive My Car</title>
+    <release_year>2021</release_year>
+    <genre>Drama</genre>
+    <director>Ryûsuke Hamaguchi</director>
+    <country>Japan</country>
+    <duration>179</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Spencer</title>
+    <release_year>2021</release_year>
+    <genre>Biography, Drama</genre>
+    <director>Pablo Larraín</director>
+    <country>UK</country>
+    <duration>117</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Life Is Beautiful</title>
+    <release_year>1997</release_year>
+    <genre>Comedy-Drama</genre>
+    <director>Roberto Benigni</director>
+    <country>Italy</country>
+    <duration>116</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Cinema Paradiso</title>
+    <release_year>1988</release_year>
+    <genre>Drama</genre>
+    <director>Giuseppe Tornatore</director>
+    <country>Italy</country>
+    <duration>155</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Blue Is the Warmest Color</title>
+    <release_year>2013</release_year>
+    <genre>Romantic Drama</genre>
+    <director>Abdellatif Kechiche</director>
+    <country>France</country>
+    <duration>180</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Run Lola Run</title>
+    <release_year>1998</release_year>
+    <genre>Thriller</genre>
+    <director>Tom Tykwer</director>
+    <country>Germany</country>
+    <duration>80</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Dogtooth</title>
+    <release_year>2009</release_year>
+    <genre>Drama</genre>
+    <director>Yorgos Lanthimos</director>
+    <country>Greece</country>
+    <duration>94</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Melancholia</title>
+    <release_year>2011</release_year>
+    <genre>Drama, Sci-Fi</genre>
+    <director>Lars von Trier</director>
+    <country>Denmark</country>
+    <duration>135</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Underground</title>
+    <release_year>1995</release_year>
+    <genre>Comedy-Drama</genre>
+    <director>Emir Kusturica</director>
+    <country>Serbia</country>
+    <duration>170</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Great Beauty</title>
+    <release_year>2013</release_year>
+    <genre>Drama</genre>
+    <director>Paolo Sorrentino</director>
+    <country>Italy</country>
+    <duration>141</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Ida</title>
+    <release_year>2013</release_year>
+    <genre>Drama</genre>
+    <director>Pawe? Pawlikowski</director>
+    <country>Poland</country>
+    <duration>82</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Son of Saul</title>
+    <release_year>2015</release_year>
+    <genre>Drama</genre>
+    <director>László Nemes</director>
+    <country>Hungary</country>
+    <duration>107</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Cold War</title>
+    <release_year>2018</release_year>
+    <genre>Romantic Drama</genre>
+    <director>Pawe? Pawlikowski</director>
+    <country>Poland</country>
+    <duration>89</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Portrait of a Lady on Fire</title>
+    <release_year>2019</release_year>
+    <genre>Romantic Drama</genre>
+    <director>Céline Sciamma</director>
+    <country>France</country>
+    <duration>122</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Piano</title>
+    <release_year>1993</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Jane Campion</director>
+    <country>New Zealand</country>
+    <duration>121</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Europa Europa</title>
+    <release_year>1990</release_year>
+    <genre>Drama, War</genre>
+    <director>Agnieszka Holland</director>
+    <country>Poland</country>
+    <duration>112</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The White Ribbon</title>
+    <release_year>2009</release_year>
+    <genre>Drama, Mystery</genre>
+    <director>Michael Haneke</director>
+    <country>Germany</country>
+    <duration>144</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Antichrist</title>
+    <release_year>2009</release_year>
+    <genre>Horror, Drama</genre>
+    <director>Lars von Trier</director>
+    <country>Denmark</country>
+    <duration>108</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Hunt</title>
+    <release_year>2012</release_year>
+    <genre>Drama, Thriller</genre>
+    <director>Thomas Vinterberg</director>
+    <country>Denmark</country>
+    <duration>115</duration>
+    <imdb_rating>8.3</imdb_rating>
+    <actors>Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp</actors>
+    <imdb_votes>391,965</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>The Lobster</title>
+    <release_year>2015</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Yorgos Lanthimos</director>
+    <country>Greece</country>
+    <duration>119</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Happy as Lazzaro</title>
+    <release_year>2018</release_year>
+    <genre>Drama, Fantasy</genre>
+    <director>Alice Rohrwacher</director>
+    <country>Italy</country>
+    <duration>125</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Toni Erdmann</title>
+    <release_year>2016</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Maren Ade</director>
+    <country>Germany</country>
+    <duration>162</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>I Am Love</title>
+    <release_year>2009</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Luca Guadagnino</director>
+    <country>Italy</country>
+    <duration>120</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Wild Tales</title>
+    <release_year>2014</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Damián Szifron</director>
+    <country>Argentina</country>
+    <duration>122</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Volver</title>
+    <release_year>2006</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Pedro Almodóvar</director>
+    <country>Spain</country>
+    <duration>121</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>All About My Mother</title>
+    <release_year>1999</release_year>
+    <genre>Drama</genre>
+    <director>Pedro Almodóvar</director>
+    <country>Spain</country>
+    <duration>101</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Talk to Her</title>
+    <release_year>2002</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Pedro Almodóvar</director>
+    <country>Spain</country>
+    <duration>112</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Pain and Glory</title>
+    <release_year>2019</release_year>
+    <genre>Drama</genre>
+    <director>Pedro Almodóvar</director>
+    <country>Spain</country>
+    <duration>113</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Biutiful</title>
+    <release_year>2010</release_year>
+    <genre>Drama</genre>
+    <director>Alejandro G. Iñárritu</director>
+    <country>Mexico</country>
+    <duration>148</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>No Man’s Land</title>
+    <release_year>2001</release_year>
+    <genre>Drama, War</genre>
+    <director>Danis Tanović</director>
+    <country>Bosnia</country>
+    <duration>98</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>La Haine</title>
+    <release_year>1995</release_year>
+    <genre>Crime Drama</genre>
+    <director>Mathieu Kassovitz</director>
+    <country>France</country>
+    <duration>98</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Elle</title>
+    <release_year>2016</release_year>
+    <genre>Thriller</genre>
+    <director>Paul Verhoeven</director>
+    <country>France</country>
+    <duration>130</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Goodbye Lenin!</title>
+    <release_year>2003</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Wolfgang Becker</director>
+    <country>Germany</country>
+    <duration>121</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Class</title>
+    <release_year>2008</release_year>
+    <genre>Drama</genre>
+    <director>Laurent Cantet</director>
+    <country>France</country>
+    <duration>128</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Vicky Cristina Barcelona</title>
+    <release_year>2008</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Woody Allen</director>
+    <country>Spain</country>
+    <duration>96</duration>
+    <imdb_rating>7.1</imdb_rating>
+    <actors>Rebecca Hall, Scarlett Johansson, Javier Bardem</actors>
+    <imdb_votes>275,462</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>Midnight in Paris</title>
+    <release_year>2011</release_year>
+    <genre>Comedy, Romance</genre>
+    <director>Woody Allen</director>
+    <country>France</country>
+    <duration>94</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Illusionist</title>
+    <release_year>2010</release_year>
+    <genre>Animation, Drama</genre>
+    <director>Sylvain Chomet</director>
+    <country>France</country>
+    <duration>80</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Persepolis</title>
+    <release_year>2007</release_year>
+    <genre>Animation, Drama</genre>
+    <director>Marjane Satrapi, Vincent Paronnaud</director>
+    <country>France</country>
+    <duration>96</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Red Turtle</title>
+    <release_year>2016</release_year>
+    <genre>Animation, Fantasy</genre>
+    <director>Michaël Dudok de Wit</director>
+    <country>France</country>
+    <duration>80</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Wings of Desire</title>
+    <release_year>1987</release_year>
+    <genre>Drama, Fantasy</genre>
+    <director>Wim Wenders</director>
+    <country>Germany</country>
+    <duration>128</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Breathless</title>
+    <release_year>1960</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Jean-Luc Godard</director>
+    <country>France</country>
+    <duration>90</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The 400 Blows</title>
+    <release_year>1959</release_year>
+    <genre>Drama</genre>
+    <director>François Truffaut</director>
+    <country>France</country>
+    <duration>99</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Jules and Jim</title>
+    <release_year>1962</release_year>
+    <genre>Drama, Romance</genre>
+    <director>François Truffaut</director>
+    <country>France</country>
+    <duration>105</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Conformist</title>
+    <release_year>1970</release_year>
+    <genre>Drama, Thriller</genre>
+    <director>Bernardo Bertolucci</director>
+    <country>Italy</country>
+    <duration>113</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>La Dolce Vita</title>
+    <release_year>1960</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Federico Fellini</director>
+    <country>Italy</country>
+    <duration>174</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Seventh Seal</title>
+    <release_year>1957</release_year>
+    <genre>Drama, Fantasy</genre>
+    <director>Ingmar Bergman</director>
+    <country>Sweden</country>
+    <duration>96</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Persona</title>
+    <release_year>1966</release_year>
+    <genre>Drama</genre>
+    <director>Ingmar Bergman</director>
+    <country>Sweden</country>
+    <duration>83</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Scenes from a Marriage</title>
+    <release_year>1973</release_year>
+    <genre>Drama</genre>
+    <director>Ingmar Bergman</director>
+    <country>Sweden</country>
+    <duration>167</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Fanny and Alexander</title>
+    <release_year>1982</release_year>
+    <genre>Drama</genre>
+    <director>Ingmar Bergman</director>
+    <country>Sweden</country>
+    <duration>188</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Double Life of Veronique</title>
+    <release_year>1991</release_year>
+    <genre>Drama, Fantasy</genre>
+    <director>Krzysztof Kieślowski</director>
+    <country>France</country>
+    <duration>98</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Three Colors: Red</title>
+    <release_year>1994</release_year>
+    <genre>Drama, Mystery</genre>
+    <director>Krzysztof Kieślowski</director>
+    <country>France</country>
+    <duration>99</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Three Colors: Blue</title>
+    <release_year>1993</release_year>
+    <genre>Drama, Music</genre>
+    <director>Krzysztof Kieślowski</director>
+    <country>France</country>
+    <duration>98</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Three Colors: White</title>
+    <release_year>1994</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Krzysztof Kieślowski</director>
+    <country>France</country>
+    <duration>92</duration>
+    <imdb_rating>7.6</imdb_rating>
+    <actors>Zbigniew Zamachowski, Julie Delpy, Janusz Gajos</actors>
+    <imdb_votes>83,192</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>Bicycle Thieves</title>
+    <release_year>1948</release_year>
+    <genre>Drama</genre>
+    <director>Vittorio De Sica</director>
+    <country>Italy</country>
+    <duration>89</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Leopard</title>
+    <release_year>1963</release_year>
+    <genre>Drama, History</genre>
+    <director>Luchino Visconti</director>
+    <country>Italy</country>
+    <duration>185</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Yesterday, Today and Tomorrow</title>
+    <release_year>1963</release_year>
+    <genre>Comedy, Romance</genre>
+    <director>Vittorio De Sica</director>
+    <country>Italy</country>
+    <duration>119</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Andrei Rublev</title>
+    <release_year>1966</release_year>
+    <genre>Biography, Drama</genre>
+    <director>Andrei Tarkovsky</director>
+    <country>Russia</country>
+    <duration>205</duration>
+    <imdb_rating>8.0</imdb_rating>
+    <actors>Anatoliy Solonitsyn, Ivan Lapikov, Nikolay Grinko</actors>
+    <imdb_votes>58,379</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>Solaris</title>
+    <release_year>1972</release_year>
+    <genre>Drama, Sci-Fi</genre>
+    <director>Andrei Tarkovsky</director>
+    <country>Russia</country>
+    <duration>167</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Stalker</title>
+    <release_year>1979</release_year>
+    <genre>Drama, Sci-Fi</genre>
+    <director>Andrei Tarkovsky</director>
+    <country>Russia</country>
+    <duration>163</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Girl with the Dragon Tattoo</title>
+    <release_year>2009</release_year>
+    <genre>Crime, Drama, Mystery</genre>
+    <director>Niels Arden Oplev</director>
+    <country>Sweden</country>
+    <duration>152</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Good Bye Lenin!</title>
+    <release_year>2003</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Wolfgang Becker</director>
+    <country>Germany</country>
+    <duration>121</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>A Very Long Engagement</title>
+    <release_year>2004</release_year>
+    <genre>Drama, Mystery, Romance</genre>
+    <director>Jean-Pierre Jeunet</director>
+    <country>France</country>
+    <duration>133</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Chorus</title>
+    <release_year>2004</release_year>
+    <genre>Drama, Music</genre>
+    <director>Christophe Barratier</director>
+    <country>France</country>
+    <duration>97</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Force Majeure</title>
+    <release_year>2014</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Ruben Östlund</director>
+    <country>Sweden</country>
+    <duration>120</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>A Royal Affair</title>
+    <release_year>2012</release_year>
+    <genre>Biography, Drama, History</genre>
+    <director>Nikolaj Arcel</director>
+    <country>Denmark</country>
+    <duration>137</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Pelle the Conqueror</title>
+    <release_year>1987</release_year>
+    <genre>Drama</genre>
+    <director>Bille August</director>
+    <country>Denmark</country>
+    <duration>157</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Celebration</title>
+    <release_year>1998</release_year>
+    <genre>Drama</genre>
+    <director>Thomas Vinterberg</director>
+    <country>Denmark</country>
+    <duration>105</duration>
+    <imdb_rating>8.0</imdb_rating>
+    <actors>Ulrich Thomsen, Henning Moritzen, Thomas Bo Larsen</actors>
+    <imdb_votes>98,330</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>The Umbrellas of Cherbourg</title>
+    <release_year>1964</release_year>
+    <genre>Drama, Musical</genre>
+    <director>Jacques Demy</director>
+    <country>France</country>
+    <duration>91</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Belle de Jour</title>
+    <release_year>1967</release_year>
+    <genre>Drama</genre>
+    <director>Luis Buñuel</director>
+    <country>France</country>
+    <duration>100</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Discreet Charm of the Bourgeoisie</title>
+    <release_year>1972</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Luis Buñuel</director>
+    <country>France</country>
+    <duration>102</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Battle of Algiers</title>
+    <release_year>1966</release_year>
+    <genre>Drama, War</genre>
+    <director>Gillo Pontecorvo</director>
+    <country>Italy</country>
+    <duration>121</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>L'Avventura</title>
+    <release_year>1960</release_year>
+    <genre>Drama, Mystery</genre>
+    <director>Michelangelo Antonioni</director>
+    <country>Italy</country>
+    <duration>143</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Spirit of the Beehive</title>
+    <release_year>1973</release_year>
+    <genre>Drama</genre>
+    <director>Víctor Erice</director>
+    <country>Spain</country>
+    <duration>98</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Exterminating Angel</title>
+    <release_year>1962</release_year>
+    <genre>Drama, Fantasy</genre>
+    <director>Luis Buñuel</director>
+    <country>Mexico</country>
+    <duration>95</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Cranes Are Flying</title>
+    <release_year>1957</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Mikhail Kalatozov</director>
+    <country>Russia</country>
+    <duration>97</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Ascent</title>
+    <release_year>1977</release_year>
+    <genre>Drama, War</genre>
+    <director>Larisa Shepitko</director>
+    <country>Russia</country>
+    <duration>111</duration>
+    <imdb_rating>8.2</imdb_rating>
+    <actors>Boris Plotnikov, Vladimir Gostyukhin, Sergey Yakovlev</actors>
+    <imdb_votes>11,235</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>The Firemen's Ball</title>
+    <release_year>1967</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Miloš Forman</director>
+    <country>Czechoslovakia</country>
+    <duration>71</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Closely Watched Trains</title>
+    <release_year>1966</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Jiří Menzel</director>
+    <country>Czechoslovakia</country>
+    <duration>93</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Daisies</title>
+    <release_year>1966</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Věra Chytilová</director>
+    <country>Czechoslovakia</country>
+    <duration>74</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Marketa Lazarová</title>
+    <release_year>1967</release_year>
+    <genre>Drama, History</genre>
+    <director>František Vláčil</director>
+    <country>Czechoslovakia</country>
+    <duration>162</duration>
+    <imdb_rating>7.9</imdb_rating>
+    <actors>Josef Kemr, Magda Vásáryová, Nada Hejna</actors>
+    <imdb_votes>6,287</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>Ashes and Diamonds</title>
+    <release_year>1958</release_year>
+    <genre>Drama, War</genre>
+    <director>Andrzej Wajda</director>
+    <country>Poland</country>
+    <duration>103</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Man of Marble</title>
+    <release_year>1977</release_year>
+    <genre>Drama</genre>
+    <director>Andrzej Wajda</director>
+    <country>Poland</country>
+    <duration>165</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Man of Iron</title>
+    <release_year>1981</release_year>
+    <genre>Drama</genre>
+    <director>Andrzej Wajda</director>
+    <country>Poland</country>
+    <duration>153</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Saragossa Manuscript</title>
+    <release_year>1965</release_year>
+    <genre>Adventure, Drama</genre>
+    <director>Wojciech Has</director>
+    <country>Poland</country>
+    <duration>182</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Knife in the Water</title>
+    <release_year>1962</release_year>
+    <genre>Drama, Thriller</genre>
+    <director>Roman Polanski</director>
+    <country>Poland</country>
+    <duration>94</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Ivan's Childhood</title>
+    <release_year>1962</release_year>
+    <genre>Drama, War</genre>
+    <director>Andrei Tarkovsky</director>
+    <country>Russia</country>
+    <duration>95</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Mirror</title>
+    <release_year>1975</release_year>
+    <genre>Biography, Drama</genre>
+    <director>Andrei Tarkovsky</director>
+    <country>Russia</country>
+    <duration>107</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Color of Pomegranates</title>
+    <release_year>1969</release_year>
+    <genre>Biography, Drama</genre>
+    <director>Sergei Parajanov</director>
+    <country>USSR</country>
+    <duration>79</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Come and See</title>
+    <release_year>1985</release_year>
+    <genre>Drama, War</genre>
+    <director>Elem Klimov</director>
+    <country>USSR</country>
+    <duration>142</duration>
+    <imdb_rating>8.3</imdb_rating>
+    <actors>Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius</actors>
+    <imdb_votes>114,827</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>Battleship Potemkin</title>
+    <release_year>1925</release_year>
+    <genre>Drama, History</genre>
+    <director>Sergei Eisenstein</director>
+    <country>USSR</country>
+    <duration>75</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Man with a Movie Camera</title>
+    <release_year>1929</release_year>
+    <genre>Documentary, Avant-Garde</genre>
+    <director>Dziga Vertov</director>
+    <country>USSR</country>
+    <duration>68</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Phantom of Liberty</title>
+    <release_year>1974</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Luis Buñuel</director>
+    <country>France</country>
+    <duration>104</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Viridiana</title>
+    <release_year>1961</release_year>
+    <genre>Drama</genre>
+    <director>Luis Buñuel</director>
+    <country>Spain</country>
+    <duration>90</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Z</title>
+    <release_year>1969</release_year>
+    <genre>Crime, Drama</genre>
+    <director>Costa-Gavras</director>
+    <country>France</country>
+    <duration>127</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Wages of Fear</title>
+    <release_year>1953</release_year>
+    <genre>Adventure, Drama</genre>
+    <director>Henri-Georges Clouzot</director>
+    <country>France</country>
+    <duration>131</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Diabolique</title>
+    <release_year>1955</release_year>
+    <genre>Crime, Drama</genre>
+    <director>Henri-Georges Clouzot</director>
+    <country>France</country>
+    <duration>114</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>La Grande Illusion</title>
+    <release_year>1937</release_year>
+    <genre>Drama, War</genre>
+    <director>Jean Renoir</director>
+    <country>France</country>
+    <duration>114</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Rules of the Game</title>
+    <release_year>1939</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Jean Renoir</director>
+    <country>France</country>
+    <duration>110</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Man Who Fell to Earth</title>
+    <release_year>1976</release_year>
+    <genre>Sci-Fi, Drama</genre>
+    <director>Nicolas Roeg</director>
+    <country>UK</country>
+    <duration>139</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Wicker Man</title>
+    <release_year>1973</release_year>
+    <genre>Horror, Mystery</genre>
+    <director>Robin Hardy</director>
+    <country>UK</country>
+    <duration>88</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Don't Look Now</title>
+    <release_year>1973</release_year>
+    <genre>Drama, Horror</genre>
+    <director>Nicolas Roeg</director>
+    <country>UK</country>
+    <duration>110</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Killing of a Sacred Deer</title>
+    <release_year>2017</release_year>
+    <genre>Drama, Mystery</genre>
+    <director>Yorgos Lanthimos</director>
+    <country>UK</country>
+    <duration>121</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Colette</title>
+    <release_year>2018</release_year>
+    <genre>Biography, Drama</genre>
+    <director>Wash Westmoreland</director>
+    <country>UK</country>
+    <duration>111</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Before Sunrise</title>
+    <release_year>1995</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Richard Linklater</director>
+    <country>Austria</country>
+    <duration>101</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Before Sunset</title>
+    <release_year>2004</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Richard Linklater</director>
+    <country>Austria</country>
+    <duration>80</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Before Midnight</title>
+    <release_year>2013</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Richard Linklater</director>
+    <country>Greece</country>
+    <duration>109</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Corpus Christi</title>
+    <release_year>2019</release_year>
+    <genre>Drama</genre>
+    <director>Jan Komasa</director>
+    <country>Poland</country>
+    <duration>115</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Shop on Main Street</title>
+    <release_year>1965</release_year>
+    <genre>Drama, War</genre>
+    <director>Ján Kadár, Elmar Klos</director>
+    <country>Czechoslovakia</country>
+    <duration>128</duration>
+    <imdb_rating>8.2</imdb_rating>
+    <actors>Ida Kaminska, Jozef Kroner, Frantisek Zvarík</actors>
+    <imdb_votes>10,017</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>The Handmaiden</title>
+    <release_year>2016</release_year>
+    <genre>Drama, Mystery</genre>
+    <director>Park Chan-wook</director>
+    <country>South Korea</country>
+    <duration>144</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Memories of Murder</title>
+    <release_year>2003</release_year>
+    <genre>Crime, Thriller</genre>
+    <director>Bong Joon-ho</director>
+    <country>South Korea</country>
+    <duration>132</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Mother</title>
+    <release_year>2009</release_year>
+    <genre>Drama, Mystery</genre>
+    <director>Bong Joon-ho</director>
+    <country>South Korea</country>
+    <duration>129</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Wailing</title>
+    <release_year>2016</release_year>
+    <genre>Drama, Horror</genre>
+    <director>Na Hong-jin</director>
+    <country>South Korea</country>
+    <duration>156</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Train to Busan</title>
+    <release_year>2016</release_year>
+    <genre>Action, Horror</genre>
+    <director>Yeon Sang-ho</director>
+    <country>South Korea</country>
+    <duration>118</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>I Saw the Devil</title>
+    <release_year>2010</release_year>
+    <genre>Action, Thriller</genre>
+    <director>Kim Jee-woon</director>
+    <country>South Korea</country>
+    <duration>144</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Burning</title>
+    <release_year>2018</release_year>
+    <genre>Drama, Mystery</genre>
+    <director>Lee Chang-dong</director>
+    <country>South Korea</country>
+    <duration>148</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Snowpiercer</title>
+    <release_year>2013</release_year>
+    <genre>Action, Drama</genre>
+    <director>Bong Joon-ho</director>
+    <country>South Korea</country>
+    <duration>126</duration>
+    <imdb_rating>7.1</imdb_rating>
+    <actors>Chris Evans, Jamie Bell, Tilda Swinton</actors>
+    <imdb_votes>410,909</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>The Chaser</title>
+    <release_year>2008</release_year>
+    <genre>Action, Thriller</genre>
+    <director>Na Hong-jin</director>
+    <country>South Korea</country>
+    <duration>125</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>A Tale of Two Sisters</title>
+    <release_year>2003</release_year>
+    <genre>Drama, Horror</genre>
+    <director>Kim Jee-woon</director>
+    <country>South Korea</country>
+    <duration>114</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Poetry</title>
+    <release_year>2010</release_year>
+    <genre>Drama</genre>
+    <director>Lee Chang-dong</director>
+    <country>South Korea</country>
+    <duration>139</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Extreme Job</title>
+    <release_year>2019</release_year>
+    <genre>Comedy, Action</genre>
+    <director>Lee Byeong-heon</director>
+    <country>South Korea</country>
+    <duration>111</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Hope</title>
+    <release_year>2013</release_year>
+    <genre>Drama</genre>
+    <director>Lee Joon-ik</director>
+    <country>South Korea</country>
+    <duration>123</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Masquerade</title>
+    <release_year>2012</release_year>
+    <genre>Drama, History</genre>
+    <director>Choo Chang-min</director>
+    <country>South Korea</country>
+    <duration>131</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Fortress</title>
+    <release_year>2017</release_year>
+    <genre>Drama, History</genre>
+    <director>Hwang Dong-hyuk</director>
+    <country>South Korea</country>
+    <duration>140</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Swing Kids</title>
+    <release_year>2018</release_year>
+    <genre>Drama, Music</genre>
+    <director>Kang Hyeong-cheol</director>
+    <country>South Korea</country>
+    <duration>133</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Battle: Roar to Victory</title>
+    <release_year>2019</release_year>
+    <genre>Action, Drama</genre>
+    <director>Won Shin-yun</director>
+    <country>South Korea</country>
+    <duration>134</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Age of Shadows</title>
+    <release_year>2016</release_year>
+    <genre>Action, Drama</genre>
+    <director>Kim Jee-woon</director>
+    <country>South Korea</country>
+    <duration>140</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Forgotten</title>
+    <release_year>2017</release_year>
+    <genre>Mystery, Thriller</genre>
+    <director>Jang Hang-jun</director>
+    <country>South Korea</country>
+    <duration>108</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Midnight Runners</title>
+    <release_year>2017</release_year>
+    <genre>Action, Comedy</genre>
+    <director>Kim Joo-hwan</director>
+    <country>South Korea</country>
+    <duration>109</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>1987: When the Day Comes</title>
+    <release_year>2017</release_year>
+    <genre>Drama, History</genre>
+    <director>Jang Joon-hwan</director>
+    <country>South Korea</country>
+    <duration>129</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>New World</title>
+    <release_year>2013</release_year>
+    <genre>Crime, Drama</genre>
+    <director>Park Hoon-jung</director>
+    <country>South Korea</country>
+    <duration>135</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Villainess</title>
+    <release_year>2017</release_year>
+    <genre>Action, Crime</genre>
+    <director>Jung Byung-gil</director>
+    <country>South Korea</country>
+    <duration>129</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Tunnel</title>
+    <release_year>2016</release_year>
+    <genre>Drama, Thriller</genre>
+    <director>Kim Seong-hun</director>
+    <country>South Korea</country>
+    <duration>126</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>A Bittersweet Life</title>
+    <release_year>2005</release_year>
+    <genre>Action, Drama</genre>
+    <director>Kim Jee-woon</director>
+    <country>South Korea</country>
+    <duration>120</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Hwayi: A Monster Boy</title>
+    <release_year>2013</release_year>
+    <genre>Action, Thriller</genre>
+    <director>Jang Joon-hwan</director>
+    <country>South Korea</country>
+    <duration>126</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Merciless</title>
+    <release_year>2017</release_year>
+    <genre>Action, Crime</genre>
+    <director>Byun Sung-hyun</director>
+    <country>South Korea</country>
+    <duration>117</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Divine Fury</title>
+    <release_year>2019</release_year>
+    <genre>Action, Horror</genre>
+    <director>Kim Joo-hwan</director>
+    <country>South Korea</country>
+    <duration>129</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Eungyo</title>
+    <release_year>2012</release_year>
+    <genre>Drama</genre>
+    <director>Jung Ji-woo</director>
+    <country>South Korea</country>
+    <duration>129</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Admiral: Roaring Currents</title>
+    <release_year>2014</release_year>
+    <genre>Action, War</genre>
+    <director>Kim Han-min</director>
+    <country>South Korea</country>
+    <duration>126</duration>
+    <imdb_rating>7.1</imdb_rating>
+    <actors>Choi Min-sik, Ryu Seung-ryong, Cho Jin-woong</actors>
+    <imdb_votes>13,484</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>Ode to My Father</title>
+    <release_year>2014</release_year>
+    <genre>Drama</genre>
+    <director>Yoon Je-kyoon</director>
+    <country>South Korea</country>
+    <duration>126</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Veteran</title>
+    <release_year>2015</release_year>
+    <genre>Action, Crime</genre>
+    <director>Ryoo Seung-wan</director>
+    <country>South Korea</country>
+    <duration>123</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Inbetweeners Movie</title>
+    <release_year>2011</release_year>
+    <genre>Comedy</genre>
+    <director>Ben Palmer</director>
+    <country>UK</country>
+    <duration>97</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Four Weddings and a Funeral</title>
+    <release_year>1994</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Mike Newell</director>
+    <country>UK</country>
+    <duration>117</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Best Exotic Marigold Hotel</title>
+    <release_year>2011</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>John Madden</director>
+    <country>UK</country>
+    <duration>124</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Iron Lady</title>
+    <release_year>2011</release_year>
+    <genre>Biography, Drama</genre>
+    <director>Phyllida Lloyd</director>
+    <country>UK</country>
+    <duration>105</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Woman in Black</title>
+    <release_year>2012</release_year>
+    <genre>Drama, Horror</genre>
+    <director>James Watkins</director>
+    <country>UK</country>
+    <duration>95</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Fifth Element</title>
+    <release_year>1997</release_year>
+    <genre>Sci-Fi, Action</genre>
+    <director>Luc Besson</director>
+    <country>France</country>
+    <duration>126</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Taken 2</title>
+    <release_year>2012</release_year>
+    <genre>Action, Thriller</genre>
+    <director>Olivier Megaton</director>
+    <country>France</country>
+    <duration>92</duration>
+    <imdb_rating>6.2</imdb_rating>
+    <actors>Liam Neeson, Famke Janssen, Maggie Grace</actors>
+    <imdb_votes>332,064</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>Lucy</title>
+    <release_year>2014</release_year>
+    <genre>Sci-Fi, Action</genre>
+    <director>Luc Besson</director>
+    <country>France</country>
+    <duration>89</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Asterix &amp; Obelix: Mission Cleopatra</title>
+    <release_year>2002</release_year>
+    <genre>Adventure, Comedy</genre>
+    <director>Alain Chabat</director>
+    <country>France</country>
+    <duration>107</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Professional</title>
+    <release_year>1981</release_year>
+    <genre>Action, Thriller</genre>
+    <director>Georges Lautner</director>
+    <country>France</country>
+    <duration>108</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Transporter</title>
+    <release_year>2002</release_year>
+    <genre>Action, Crime</genre>
+    <director>Louis Leterrier, Corey Yuen</director>
+    <country>France</country>
+    <duration>92</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Quo Vado?</title>
+    <release_year>2016</release_year>
+    <genre>Comedy</genre>
+    <director>Gennaro Nunziante</director>
+    <country>Italy</country>
+    <duration>86</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Sole a catinelle</title>
+    <release_year>2013</release_year>
+    <genre>Comedy</genre>
+    <director>Gennaro Nunziante</director>
+    <country>Italy</country>
+    <duration>90</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Che bella giornata</title>
+    <release_year>2011</release_year>
+    <genre>Comedy</genre>
+    <director>Gennaro Nunziante</director>
+    <country>Italy</country>
+    <duration>97</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>La vita è bella</title>
+    <release_year>1997</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Roberto Benigni</director>
+    <country>Italy</country>
+    <duration>116</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Tolo Tolo</title>
+    <release_year>2020</release_year>
+    <genre>Comedy</genre>
+    <director>Checco Zalone</director>
+    <country>Italy</country>
+    <duration>90</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Benvenuti al Sud</title>
+    <release_year>2010</release_year>
+    <genre>Comedy</genre>
+    <director>Luca Miniero</director>
+    <country>Italy</country>
+    <duration>102</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Benvenuti al Nord</title>
+    <release_year>2012</release_year>
+    <genre>Comedy</genre>
+    <director>Luca Miniero</director>
+    <country>Italy</country>
+    <duration>110</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Perfetti sconosciuti</title>
+    <release_year>2016</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Paolo Genovese</director>
+    <country>Italy</country>
+    <duration>97</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Il ciclone</title>
+    <release_year>1996</release_year>
+    <genre>Comedy</genre>
+    <director>Leonardo Pieraccioni</director>
+    <country>Italy</country>
+    <duration>95</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>La grande bellezza</title>
+    <release_year>2013</release_year>
+    <genre>Drama</genre>
+    <director>Paolo Sorrentino</director>
+    <country>Italy</country>
+    <duration>141</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Stalingrad</title>
+    <release_year>2013</release_year>
+    <genre>War Drama</genre>
+    <director>Fedor Bondarchuk</director>
+    <country>Russia</country>
+    <duration>131</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>T-34</title>
+    <release_year>2018</release_year>
+    <genre>War Drama</genre>
+    <director>Alexey Sidorov</director>
+    <country>Russia</country>
+    <duration>139</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Posledniy Bogatyr</title>
+    <release_year>2017</release_year>
+    <genre>Fantasy, Comedy</genre>
+    <director>Dmitriy Dyachenko</director>
+    <country>Russia</country>
+    <duration>114</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Gorko!</title>
+    <release_year>2013</release_year>
+    <genre>Comedy</genre>
+    <director>Zhora Kryzhovnikov</director>
+    <country>Russia</country>
+    <duration>100</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Viking</title>
+    <release_year>2016</release_year>
+    <genre>Historical Drama</genre>
+    <director>Andrey Kravchuk</director>
+    <country>Russia</country>
+    <duration>133</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Good Bye, Lenin!</title>
+    <release_year>2003</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Wolfgang Becker</director>
+    <country>Germany</country>
+    <duration>121</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Metropolis</title>
+    <release_year>1927</release_year>
+    <genre>Sci-Fi, Drama</genre>
+    <director>Fritz Lang</director>
+    <country>Germany</country>
+    <duration>153</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Cabinet of Dr. Caligari</title>
+    <release_year>1920</release_year>
+    <genre>Horror, Mystery</genre>
+    <director>Robert Wiene</director>
+    <country>Germany</country>
+    <duration>71</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>M</title>
+    <release_year>1931</release_year>
+    <genre>Crime, Thriller</genre>
+    <director>Fritz Lang</director>
+    <country>Germany</country>
+    <duration>117</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Bridge</title>
+    <release_year>1959</release_year>
+    <genre>War, Drama</genre>
+    <director>Bernhard Wicki</director>
+    <country>Germany</country>
+    <duration>103</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Aguirre, The Wrath of God</title>
+    <release_year>1972</release_year>
+    <genre>Adventure, Drama</genre>
+    <director>Werner Herzog</director>
+    <country>Germany</country>
+    <duration>95</duration>
+    <imdb_rating>7.8</imdb_rating>
+    <actors>Klaus Kinski, Ruy Guerra, Helena Rojo</actors>
+    <imdb_votes>65,877</imdb_votes>
+    <found_in_omdb>True</found_in_omdb>
+  </row>
+  <row>
+    <title>The Marriage of Maria Braun</title>
+    <release_year>1979</release_year>
+    <genre>Drama</genre>
+    <director>Rainer Werner Fassbinder</director>
+    <country>Germany</country>
+    <duration>120</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Das Boot</title>
+    <release_year>1981</release_year>
+    <genre>War, Drama</genre>
+    <director>Wolfgang Petersen</director>
+    <country>Germany</country>
+    <duration>149</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Baader Meinhof Complex</title>
+    <release_year>2008</release_year>
+    <genre>Drama, History</genre>
+    <director>Uli Edel</director>
+    <country>Germany</country>
+    <duration>150</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Wave</title>
+    <release_year>2008</release_year>
+    <genre>Drama, Thriller</genre>
+    <director>Dennis Gansel</director>
+    <country>Germany</country>
+    <duration>107</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Victoria</title>
+    <release_year>2015</release_year>
+    <genre>Crime, Drama</genre>
+    <director>Sebastian Schipper</director>
+    <country>Germany</country>
+    <duration>138</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Oh Boy</title>
+    <release_year>2012</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Jan-Ole Gerster</director>
+    <country>Germany</country>
+    <duration>83</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Phoenix</title>
+    <release_year>2014</release_year>
+    <genre>Drama, Mystery</genre>
+    <director>Christian Petzold</director>
+    <country>Germany</country>
+    <duration>98</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Barbara</title>
+    <release_year>2012</release_year>
+    <genre>Drama, History</genre>
+    <director>Christian Petzold</director>
+    <country>Germany</country>
+    <duration>105</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>The Edukators</title>
+    <release_year>2004</release_year>
+    <genre>Drama, Crime</genre>
+    <director>Hans Weingartner</director>
+    <country>Germany</country>
+    <duration>127</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+  <row>
+    <title>Downfall</title>
+    <release_year>2004</release_year>
+    <genre>Drama, History</genre>
+    <director>Oliver Hirschbiegel</director>
+    <country>Germany</country>
+    <duration>156</duration>
+    <imdb_rating/>
+    <actors/>
+    <imdb_votes/>
+    <found_in_omdb>False</found_in_omdb>
+  </row>
+</data>
